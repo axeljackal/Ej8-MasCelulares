@@ -1,6 +1,7 @@
 # Ej8-MasCelulares
 Ejercicio 8 - Guía UTN - PP3
 
+
 Agregar al modelo armado para el ejercicio de celulares (Ej. 4) lo siguiente: 
 
 a. Revisar si como está lo que hiciste, crear una persona nueva es fácil o no; si para crear una persona hay que repetir código, pensar cómo hacer para que no sea así.
@@ -10,6 +11,7 @@ b. Crear a Juan, que tiene un iPhone; este iPhone no es el mismo aparato que el 
 c. Cambiar la política de Claro, para que cobre 0.50 + IVA por llamada, en lugar de por minuto.
 
 d. Además de llamadas, se pueden enviar mensajes de texto entre celulares. Siempre que un celular recibe un mensaje lo guarda. Movistar y Claro cobran $0,12 centavos el mensaje, y Personal $0,15.
+
 
 Todo lo que viene abajo, debería hacerse en un solo objeto, y que ande para todas las personas. Está relacionado con lo que preguntamos en el punto a. de este ejercicio
 
